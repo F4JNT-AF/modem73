@@ -98,4 +98,11 @@ while running `rigctld`
 ```
 
 
+## Updating
 
+modem73 comes included with a update utility `update.sh`
+
+To update to the latest version:
+```
+./update.sh
+```
