@@ -19,7 +19,7 @@ MODEM73 is a [KISS](https://en.wikipedia.org/wiki/KISS_(amateur_radio_protocol))
 
 ```
 # Debian/Ubuntu/Pi
-sudo apt install git build-essential libncurses-dev g++  
+sudo apt install git build-essential libncurses-dev g++ libhidapi-dev 
 ```
 
 2. Clone aiocdix DSP libraries and build.
